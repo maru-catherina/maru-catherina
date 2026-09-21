@@ -1,9 +1,29 @@
-- 👋 Hi, I’m @maru-catherina
-- 👀 I’m interested in Android development
--- 💞️ I’m looking to collaborate on web and android development projects 
-- 📫 How to reach me via email: maru-catherina@mail.com
+### Hi, I'm Ekaterina (Catherina) K. — Android & Web Developer @ DevZone Studio 
+**📍 Boca Raton, FL (Remote) | 📫 maru-catherina@mail.comv 🌐 devzone.studio*
 
-<!---
-maru-catherina/maru-catherina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build Android app in Kotlin that is live on Google Play, and responsive web apps in React.
+My apps on Play Store are published under my verified legal name due to Google's verification policy.
+
+
+
+#### 🚀 What I Build
+- **Android (Kotlin):** Production apps on Play Store — White Noise, utility apps
+- **Web (React):** Responsive business websites with booking, e-commerce logic
+- **Web (HTML, CSS, JAVASCRIPT):** Responsive, mobile-first websites
+- **Focus:** Clean architecture, stable background services, simple UX
+
+#### 🛠 Tech Stack
+`Kotlin` `Java` `Android SDK` `Jetpack` `MVVM` `Room` `React` `JavaScript` `HTML/CSS` `Firebase` `Git`
+
+#### 📌 Pinned Projects
+- **[white_noise](https://github.com/maru-catherina/white_noise)** — Sleep & focus sounds app. Live on Play Store.
+- **[FEDCapstone - Little Lemon](https://github.com/maru-catherina/FEDCapstone)** — React restaurant website with table reservation.
+- **[DevZone Portfolio]** — Personal portfolio. 
+
+
+#### 🤝 Let's Work Together
+I'm open for freelance: Android apps, React websites, QA
+Reach me: maru-catherina@mail.com
+
+---
+*DevZone Studio — we turn ideas into apps.*
