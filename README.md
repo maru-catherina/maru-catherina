@@ -1,5 +1,5 @@
 ### Hi, I'm Kate K. — Android & Web Developer @ DevZone Studio 
-**📍 Boca Raton, FL (Remote) | 📫 maru-catherina@mail.comv 🌐 devzone.studio*
+**📍 Boca Raton, FL (Remote) | 📫 maru-catherina@mail.com 🌐 [devzone.studio](https://maru-catherina.github.io/devzone)*
 
 I build Android app in Kotlin that is live on Google Play, and responsive web apps in React.
 My apps on Play Store are published under my verified legal name due to Google's verification policy.
@@ -19,7 +19,7 @@ My apps on Play Store are published under my verified legal name due to Google's
 #### 📌 Pinned Projects
 - **[white_noise](https://github.com/maru-catherina/white_noise)** — Sleep & focus sounds app. Live on Play Store.
 - **[FEDCapstone - Little Lemon](https://github.com/maru-catherina/FEDCapstone)** — React restaurant website with table reservation.
-- **[DevZone Portfolio](https://maru-catherina.github.io/devzone/)** — Personal portfolio. 
+- **[DevZone Portfolio](https://maru-catherina.github.io/devzone)** — Personal portfolio. 
 
 
 #### 🤝 Let's Work Together
