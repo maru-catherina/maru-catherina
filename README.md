@@ -18,7 +18,8 @@ Built Android app (Kotlin) and Web app (React), web development — now I use th
 
 My apps on Play Store are published under my verified legal name due to Google's verification policy.
 [Play Store](https://play.google.com/store/apps/developer?id=DevZone+Studio)
-#### 🚀 What I Build before
+
+#### 🚀 What I Builded before
 - **Android (Kotlin):** Production apps on Play Store — White Noise, utility apps
 - **Web (React):** Responsive business websites with booking, e-commerce logic
 - **Web (HTML, CSS, JAVASCRIPT):** Responsive, mobile-first websites
