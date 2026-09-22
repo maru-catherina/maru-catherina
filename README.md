@@ -2,7 +2,7 @@
 **📍 Boca Raton, FL (Remote) | 📫 maru-catherina@mail.com
 
 
-Junior Manual QA Engineer with a dev background. I don't just find bugs — I understand why they happen.
+**Junior Manual QA Engineer with a dev background. I don't just find bugs — I understand why they happen.**
 
 **What I test:**
 `Manual Testing` `API Testing (Postman)` `Test Cases & Checklists` `Bug Reports` `SQL`
