@@ -23,7 +23,7 @@ My apps on Play Store are published under my verified legal name due to Google's
 
 
 #### 🤝 Let's Work Together
-I'm open for freelance: Android apps, React websites, QA
+I'm open for freelance: Android apps, React websites,QA
 Reach me: maru-catherina@mail.com
 
 ---
