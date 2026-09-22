@@ -1,4 +1,4 @@
-### Hi, I'm Ekaterina (Catherina) K. — Android & Web Developer @ DevZone Studio 
+### Hi, I'm Kate K. — Android & Web Developer @ DevZone Studio 
 **📍 Boca Raton, FL (Remote) | 📫 maru-catherina@mail.comv 🌐 devzone.studio*
 
 I build Android app in Kotlin that is live on Google Play, and responsive web apps in React.
