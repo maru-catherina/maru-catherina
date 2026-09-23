@@ -11,7 +11,7 @@
 `Playwright + JavaScript` — automation
 
 **My QA Portfolio:**
-📂 **/qa-portfolio** — test documentation for 3 projects with screenshots and reports
+📂 **/Qa-portfolio** — test documentation for 3 projects with screenshots and reports
 
 **Before QA:**
 Built Android app (Kotlin) and Web app (React), web development — now I use that knowledge to break them properly.
